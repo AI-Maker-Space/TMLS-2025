@@ -1,0 +1,14 @@
+[project]
+name = "aim_mcp_demo"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "langgraph>=0.3.27",
+    "mcp[cli]>=1.6.0",
+    "numpy>=2.2.4",
+    "openai>=1.72.0",
+    "python-dotenv>=1.1.0",
+    "tavily-python>=0.5.4",
+]
