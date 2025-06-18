@@ -5,6 +5,8 @@
 
 ## <h1 align="center" id="heading">Our First Agent with LangGraph</h1>
 
+[COLAB LINK](https://colab.research.google.com/drive/1jldCbFA5zYQ88kBxe0BI1TTBVhuY5hQY?usp=sharing)
+
 In today's assignment, we'll be creating an Agentic LangChain RAG Application.
 
 

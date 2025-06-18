@@ -6,6 +6,8 @@
 
 ## <h1 align="center" id="heading">Multi-Agent with LangGraph</h1>
 
+[COLAB LINK](https://colab.research.google.com/drive/1dwDPSghW4SQOZyZYuZv0Fwu5ZDRfYaBj?usp=sharing)
+
 In today's session, we'll be creating a MULTI-Agentic LangGraph Application.
 
   1. Simple LCEL RAG
@@ -13,3 +15,4 @@ In today's session, we'll be creating a MULTI-Agentic LangGraph Application.
   3. Research Team - A LangGraph for Researching A Specific Topic
   4. Document Writing Team - A LangGraph for Writing, Editing, and Planning a LinkedIn post.
   5. Meta-Supervisor and Full Graph
+
